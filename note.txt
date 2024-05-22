@@ -1,0 +1,93 @@
+8-5-24:
+a
+b
+i
+u
+h1-h6
+p
+8-5-24:
+
+9-5-24:
+
+ul
+ol
+button
+img
+what is block element and what is inline element
+span
+
+form/optional for today if time remaining 
+br
+9-5-24:
+
+
+10-5-24
+
+lets start with some css and how it works?
+3 type of CSS: inline -css, internal-css,external-css;
+who is best and who is more powerfull in css;
+link external css
+color, font-size,font-weight, font-style; text-decoration;
+class-id
+10-5-24
+
+12-5-24
+OFF DAY (student falt)
+12-5-24
+
+13-5-24
+reset code
+background-color;
+border
+width
+height
+what is margin
+what is padding
+what is div
+what is flex / parent > child
+nested div
+justify-content center
+justify-content- flex-start
+justify-content- flex-end
+wrapping div and try to make 3 box with center align
+margin using type 4: margin,margin-top,margin-left,margin-right,margin-bottom;
+using advance class
+13-5-24
+
+
+
+
+
+14-5-24
+3-column 
+presudu class- hover
+transition
+border-radius
+
+14-5-24
+
+15-5-24 // revision break day
+
+16-5-24
+commenting
+advance flexbox // MUST
+justify-content-space // MUST
+align items // MUST
+flex-direction // MUST
+flex-wrap // MUST
+make basic menu // optional for today if time remaining //
+advance form //optional for today if time remaining//
+16-5-24
+
+19-5-24
+semantic markup
+github//
+font-awsome
+menu
+display grid
+
+19-5-24
+
+
+
+

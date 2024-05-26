@@ -1,50 +1,113 @@
 *{
-    margin: 0 ;
+    margin: 0;
     padding: 0;
 }
-body{
-    font-family: "Poppins", sans-serif;
+.body{
+    font-family:'poppins',sans-serif;
+    margin:0 ;
+    padding: 0;
 }
+/* top banner stars */
 .top-banner{
     display: flex;
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
-    
-    
 }
 .half-width{
     width: 50%;
-    padding-left: 4%;
-    margin-top: 20px;
+    padding-left: 2%;
+
 }
 .half-width h1{
-    font-size: 50px;
-    font-weight: 400;
-    margin-bottom: 30px;
+    font-size: 40px;
+
 }
-.half-width p{
-    margin-top: 10px;
-    margin-bottom: 20px;
-    font-size: 18px;
-    line-height: 30px;
+.orange-color{
+    color: orange;
 }
 .half-width a{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background:linear-gradient(45deg,lightsalmon, tomato);
+    color:white;
     padding: 10px 20px;
-    text-transform: capitalize;
-    color: white;
     font-weight: 700;
-    border-radius: 6px;
-    
+    border-radius: 5px;
+    transition: .3s all ease-in;
 }
-.orange-h1{
-    color: orange;
+.half-width a:hover{
+    background-image: linear-gradient(powderblue,lightpink);
+       
 }
 .half-width img{
-    width: 50%;
-   
+    width: 70%;
+    transition: .3s all ease-in;
+    
 }
-.half-width h3{
+.half-width img:hover{
+    transition:scale(.8);
+}
+.half-width p{
+    margin-bottom: 40px;
+    
+}
+/* top banner ends */
+/* dream big start */
+.dream-big{
+    display: flex;
+    background-image: url(img/red-starburst-sunburst-burst-badge-sticker-banner-png.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 120px;
+    padding-right: 10%;
+    margin-bottom: 120px;
+}
+
+/* dream big ends */
+/* experiences start */
+.experiences{
+   display: flex; 
+   margin-bottom: 120px;
+   background-image: url(img/exp-bg.png);
+   background-repeat: no-repeat;
+   background-size: 80px;
+}
+.developer{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    border-left: 7px solid blue;
+}
+.orange-border{
+    border-left: 7px solid orange;
+}
+.developer-h2{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.developer h2{
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.developer h3{
+    color: orange;
     margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
 }
+.developer p{
+ text-transform: capitalize;
+}
+/* experiences end */
+/* footer start */
+footer{
+  text-align: center; 
+  margin-bottom: 30px; 
+}
+/* footer end */
+
+
+
+
+
